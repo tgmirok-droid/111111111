@@ -42,6 +42,48 @@ const members = [
             project: "https://t.me/+2lzPHPyb9XoyZDIy",
         }
     },
+    {
+        id: 3,
+        nickname: "карма",
+        username: "@aveskaip",
+        category: "Медийки",
+        role: "Co-owner",
+        description: "со-Владелец листа.",
+        avatar: "img/avatar3.jpg",
+        verified: true,
+        pinned: true,
+        project: "https://t.me/+fi1er8ytNEkxM2I1",
+        telegram: "aveskaip",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "Модератор",
+        skills: ["Администрирование", "Модерация", "Развитие сообщества"],
+        socials: {
+            telegram: "@aveskaip",
+            project: "https://t.me/+fi1er8ytNEkxM2I1",
+        }
+    },
+        {
+        id: 4,
+        nickname: " faero",
+        username: "@favecol",
+        category: "Низкий фейм",
+        role: "Низкий фейм",
+        description: "🪖 we win - @adpphouse | @list_fila | zomoero.t.me | лика faero при мне ориг юз - @favecol",
+        avatar: "img/avatar4.jpg",
+        verified: true,
+        pinned: true,
+        project: "https://t.me/+G0qSBOjCIpBhZTA0",
+        telegram: "favecol",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@favecol",
+            project: "https://t.me/+G0qSBOjCIpBhZTA0",
+        }
+    },
 ];
 
 let currentTheme = 'black';
