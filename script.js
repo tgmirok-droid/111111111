@@ -14,11 +14,32 @@ const members = [
         chat: "https://t.me/+fvkCt3uNSc84NTE0",
         joinDate: "2026-05-05",
         activity: "Постоянная",
-        details: "Создатель и владелец NoolShy Fame. Занимаюсь развитием сообщества и модерацией. Отвечаю на вопросы по поводу добавления в список и других услуг.",
+        details: "Создатель и владелеца fame list. Занимаюсь развитием сообщества и модерацией. Отвечаю на вопросы по поводу добавления в список и других услуг.",
         skills: ["Администрирование", "Модерация", "Развитие сообщества"],
         socials: {
             telegram: "@tgmirok",
             project: "https://t.me/+hgYBTlhzZOZmNDY0",
+        }
+    },    
+    {
+        id: 2,
+        nickname: "Второе Дыхание",
+        username: "@xyemode",
+        category: "Медийки",
+        role: "Co-owner",
+        description: "со-Владелец листа.",
+        avatar: "img/avatar2.jpg",
+        verified: true,
+        pinned: true,
+        project: "https://t.me/+2lzPHPyb9XoyZDIy",
+        telegram: "xyemode",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "Модератор",
+        skills: ["Администрирование", "Модерация", "Развитие сообщества"],
+        socials: {
+            telegram: "@tgmirok",
+            project: "https://t.me/+2lzPHPyb9XoyZDIy",
         }
     },
 ];
