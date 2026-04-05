@@ -38,7 +38,7 @@ const members = [
         details: "Модератор",
         skills: ["Администрирование", "Модерация", "Развитие сообщества"],
         socials: {
-            telegram: "@tgmirok",
+            telegram: "@xyemode",
             project: "https://t.me/+2lzPHPyb9XoyZDIy",
         }
     },
