@@ -126,6 +126,88 @@ const members = [
             chat: "https://t.me/+Evp_0KBSomQ4NzI0",
         }
     },
+                    {
+        id: 7,
+        nickname: "свегеров младший",
+        username: "@sexmladshiy",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "- клянусь, что меня спасла музыка и люди которые были рядом.",
+        avatar: "img/avatar7.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/adapterlaitamladshego",
+        telegram: "sexmladshiy",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@sexmladshiy",
+            project: "https://t.me/adapterlaitamladshego",
+        }
+    },
+                        {
+        id: 8,
+        nickname: "Бигельдинов",
+        username: "@sukzep",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "@bitchpolice | анон - http://t.me/anonaskbot?start=dee8bz7",
+        avatar: "img/avatar8.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/bitchpolice",
+        telegram: "sukzep",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@sukzep",
+            project: "https://t.me/bitchpolice",
+        }
+    },
+                            {
+        id: 9,
+        nickname: "Траворов",
+        username: "@attacktravorov",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "спам,тролль = чс | SellFiz cheap | - @pripiskagmailcom | @repatravorov",
+        avatar: "img/avatar9.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/shoptravorov",
+        telegram: "attacktravorov",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@attacktravorov",
+            project: "https://t.me/shoptravorov",
+        }
+    },
+                                {
+        id: 10,
+        nickname: "paranoia",
+        username: "@paranoiadead",
+        category: "Высокий фейм",
+        role: "Высокий фейм",
+        description: "дискорд клан paranoia на 15тысяч участников(ныне снесенный)",
+        avatar: "img/avatar10.jpg",
+        verified: false,
+        pinned: false,
+        telegram: "paranoiadead",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "Высокий фейм",
+        skills: ["высокая узноваемость"],
+        socials: {
+            telegram: "@paranoiadead",
+        }
+    },
 ];
 
 let currentTheme = 'black';
