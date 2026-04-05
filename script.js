@@ -11,7 +11,6 @@ const members = [
         pinned: true,
         project: "https://t.me/+Xp67bRCpAdBiMTYy",
         telegram: "tgmirok",
-        price: "https://noolshy.github.io/market/",
         chat: "https://t.me/NOOLSHY_CHAT",
         joinDate: "2026-05-05",
         activity: "Постоянная",
