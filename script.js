@@ -11,14 +11,14 @@ const members = [
         pinned: true,
         project: "https://t.me/+hgYBTlhzZOZmNDY0",
         telegram: "tgmirok",
-        chat: "https://t.me/NOOLSHY_CHAT",
+        chat: "https://t.me/+fvkCt3uNSc84NTE0",
         joinDate: "2026-05-05",
         activity: "Постоянная",
         details: "Создатель и владелец NoolShy Fame. Занимаюсь развитием сообщества и модерацией. Отвечаю на вопросы по поводу добавления в список и других услуг.",
         skills: ["Администрирование", "Модерация", "Развитие сообщества"],
         socials: {
             telegram: "@tgmirok",
-            project: "https://t.me/+Xp67bRCpAdBiMTYy",
+            project: "https://t.me/+hgYBTlhzZOZmNDY0",
         }
     },
 ];
