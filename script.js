@@ -290,6 +290,29 @@ const members = [
             project: "https://t.me/mybioxacri",
         }
     },
+                {
+        id: 16,
+        nickname: "Merlin",
+        username: "@oxemerlin",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "Гарант | сделки под 4% | отзывы @repamerlinna | anonskillers.t.me |",
+        avatar: "img/avatar16.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/anonskillers",
+        chat: "https://t.me/anonskillers",
+        telegram: "oxemerlin",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@oxemerlin",
+            project: "https://t.me/patriarchotz",
+            chat: "https://t.me/anonskillers",
+        }
+    },
 ];
 
 let currentTheme = 'black';
