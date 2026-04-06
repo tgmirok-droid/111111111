@@ -401,6 +401,115 @@ const members = [
 
         }
     },
+                            {
+        id: 21,
+        nickname: "Форсов",
+        username: "@vkforsov",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "Эдит=15звезд жду именно тебя:) | я не в км",
+        avatar: "img/avatar21.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+EH1zMKGv2o9lN2Yy",
+        telegram: "vkforsov",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@vkforsov",
+            project: "https://t.me/+EH1zMKGv2o9lN2Yy",
+
+        }
+    },
+                                {
+        id: 22,
+        nickname: "культ",
+        username: "@kuJlt_com",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "telegram | без денег не писать | недоосинтеры и тиктокерские доксеры не пишите.",
+        avatar: "img/avatar22.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+2l_DXWQpHMEzNDUx",
+        telegram: "kuJlt_com",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@kuJlt_com",
+            project: "https://t.me/+2l_DXWQpHMEzNDUx",
+
+        }
+    },
+                                    {
+        id: 23,
+        nickname: "Эксайд",
+        username: "@tgexide",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "Отзывы - [ repexide.t.me ] | @dar1kchat - заход",
+        avatar: "img/avatar23.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/collinsteam",
+        telegram: "tgexide",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@tgexide",
+            project: "https://t.me/collinsteam",
+
+        }
+    },
+                                            {
+        id: 24,
+        nickname: "австрон",
+        username: "@acenod",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "Отзывы @avstron_repaㅤ Канал @avstronlife ㅤ-Гарант - до 1000₽ 0%/от 1000₽ 2%",
+        avatar: "img/avatar24.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/avstronlife2",
+        telegram: "acenod",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@acenod",
+             project: "https://t.me/avstronlife2",     
+        }
+    },
+                                        {
+        id: 25,
+        nickname: "Мори Sailent",
+        username: "@anonsailent",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "404 whomagic.t.me | adaptzxh.t.me",
+        avatar: "img/avatar25.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+37lSpOVK8GVhOGZk",
+        telegram: "anonsailent",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@anonsailent",
+            project: "https://t.me/+37lSpOVK8GVhOGZk",
+
+        }
+    },
 ];
 
 let currentTheme = 'black';
