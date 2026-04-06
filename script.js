@@ -603,7 +603,7 @@ const members = [
         username: "@narkoinvestor",
         category: "Высокий фейм",
         role: "Высокий фейм",
-        description: "@auctiononbio - мы б0ги этого ебуч*го мира $ gf - @telozov $ Auction Fingers $ I act as a guarantor $ а может повеситься?",
+        description: " @pin_return",
         avatar: "img/avatar30.jpg",
         verified: false,
         pinned: false,
