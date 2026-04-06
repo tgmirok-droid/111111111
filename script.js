@@ -605,7 +605,7 @@ const members = [
         role: "Высокий фейм",
         description: " @pin_return",
         avatar: "img/avatar30.jpg",
-        verified: false,
+        verified: true,
         pinned: false,
         project: "https://t.me/+Lti1FYhfhKBlMmVk",
         telegram: "narkoinvestor",
