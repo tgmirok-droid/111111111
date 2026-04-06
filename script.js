@@ -193,7 +193,7 @@ const members = [
         username: "@kmwasted",
         category: "Высокий фейм",
         role: "Высокий фейм",
-        description: "my defs: @banhoto @psychonervoice брадки: @imgiyy @banhoto @pinaevv @Swwwwwwwwag",
+        description: "дс клан на 70000 человек "криминальные" и тг клан "fuckseance" на 3000 человек (но щас его нету) нынешний тг клан "темнаягвардия" на 200 человек",
         avatar: "img/avatar11.jpg",
         verified: false,
         pinned: false,
