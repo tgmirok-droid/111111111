@@ -313,6 +313,50 @@ const members = [
             chat: "https://t.me/anonskillers",
         }
     },
+                    {
+        id: 17,
+        nickname: "Нарэкцкий Лукойл",
+        username: "@uxogx",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "Писать только по важным вопросам. Проект: @redslowproject",
+        avatar: "img/avatar17.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+7_HILyTJwhQ2YjJi",
+        telegram: "uxogx",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@uxogx",
+            project: "https://t.me/+7_HILyTJwhQ2YjJi",
+
+        }
+    },
+                        {
+        id: 18,
+        nickname: "#спавший",
+        username: "@spavshiuy",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "по вопросам в лс//channel: https://t.me/+krLo9WHC6V44MWQ6",
+        avatar: "img/avatar18.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+krLo9WHC6V44MWQ6",
+        telegram: "spavshiuy",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@spavshiuy",
+            project: "https://t.me/+krLo9WHC6V44MWQ6",
+
+        }
+    },
 ];
 
 let currentTheme = 'black';
