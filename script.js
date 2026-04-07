@@ -1225,7 +1225,7 @@ const members = [
     {
         id: 60,
         nickname: "picker.web",
-        username: "@mvdshoting",
+        username: "@geresec",
         category: "Средний фейм",
         role: "Средний фейм",
         description: "Пришел чисто ради бабок и некого фейма начинал путь в 2022 году будучи мирным пиздюком позже начинал познавать доксинг и в 24 узнал о осинте",
@@ -1233,13 +1233,13 @@ const members = [
         verified: false,
         pinned: false,
         project: "https://t.me/+Qn4Lct2DPjI2YTQy",
-        telegram: "mvdshoting",
+        telegram: "geresec",
         joinDate: "2026-05-05",
         activity: "Постоянная",
         details: "средний фейм",
         skills: ["средняя узноваемость"],
         socials: {
-            telegram: "@mvdshoting",  
+            telegram: "@geresec",  
             project: "https://t.me/+Qn4Lct2DPjI2YTQy",
         }
     },
