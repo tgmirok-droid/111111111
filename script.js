@@ -788,6 +788,7 @@ const members = [
         avatar: "img/avatar39.jpg",
         verified: false,
         pinned: false,
+        scam: true,
         project: "https://t.me/+mJmSiBhBKAgwNjUy",
         telegram: "hysteriboy",
         joinDate: "2026-05-05",
