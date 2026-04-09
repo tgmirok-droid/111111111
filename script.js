@@ -176,7 +176,7 @@ const members = [
         role: "Высокий фейм",
         description: "дискорд клан paranoia на 15тысяч участников(ныне снесенный)",
         avatar: "img/avatar10.jpg",
-        verified: false,
+        verified: true,
         pinned: false,
         telegram: "paranoiadead",
         joinDate: "2026-05-05",
