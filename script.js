@@ -1365,7 +1365,9 @@ const members = [
         details: "средний фейм",
         skills: ["средняя узноваемость"],
         socials: {
-            telegram: "@chapiroIov",    
+            telegram: "@chapiroIov", 
+                      project: "https://t.me/+VrrAOuhAWEg2ZTQy",
+                      project: "https://t.me/+ySz4ojXwvykwOWUy",
         }
     }
 ];
